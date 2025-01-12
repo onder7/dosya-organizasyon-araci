@@ -1,6 +1,3 @@
-Aşağıda, bu proje için bir **README.md** dosyası örneği bulunmaktadır. Bu dosya, projenin ne işe yaradığını, nasıl kullanılacağını ve diğer önemli bilgileri açıklar.
-
----
 
 # Dosya Organizasyon Aracı
 
@@ -46,13 +43,15 @@ Bu Python uygulaması, belirli bir dizindeki dosyaları uzantılarına göre oto
 
 ### Ana Pencere
 
-![Ana Pencere([https://imgur.com/gWVIV4j](https://imgur.com/gWVIV4j))
+[Imgur](https://i.imgur.com/gWVIV4j.png)
+
 
 
 
 ### Hakkında Penceresi
-![Hakkında Penceresi](https://imgur.com/gWVIV4j)
 
+[Imgur](https://i.imgur.com/eJCjzuU.png)
+[Imgur](https://i.imgur.com/ThAUnIl.jpg)
 ---
 
 ## Yazar Bilgileri
