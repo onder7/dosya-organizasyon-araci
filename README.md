@@ -45,10 +45,13 @@ Bu Python uygulaması, belirli bir dizindeki dosyaları uzantılarına göre oto
 ## Ekran Görüntüleri
 
 ### Ana Pencere
-![Ana Pencere](https://i.imgur.com/XYZ1234.png)
+
+![Ana Pencere([https://imgur.com/gWVIV4j](https://imgur.com/gWVIV4j))
+
+
 
 ### Hakkında Penceresi
-![Hakkında Penceresi](https://i.imgur.com/ABC5678.png)
+![Hakkında Penceresi](https://imgur.com/gWVIV4j)
 
 ---
 
