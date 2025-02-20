@@ -4,8 +4,13 @@
 Bu Python uygulaması, belirli bir dizindeki dosyaları uzantılarına göre otomatik olarak klasörlere ayırır. Örneğin, `.txt` dosyaları "Txt Dosyaları" klasörüne, `.jpg` dosyaları "Jpg Dosyaları" klasörüne taşınır. Uygulama, `tkinter` kütüphanesi kullanılarak modern bir grafik kullanıcı arayüzü (GUI) ile geliştirilmiştir.
 
 ---
+## Ekran Görüntüleri
+
+### Ana Pencere
+
 ![image](https://github.com/user-attachments/assets/96b983da-e26c-43f9-8b2d-8e1333d0feac)
 
+![image](https://github.com/user-attachments/assets/6d835191-4c1d-418b-8ca4-c23e80026788)
 
 ## Özellikler
 
@@ -41,20 +46,9 @@ Bu Python uygulaması, belirli bir dizindeki dosyaları uzantılarına göre oto
 
 ---
 
-## Ekran Görüntüleri
-
-### Ana Pencere
-
-[Imgur](https://i.imgur.com/gWVIV4j.png)
 
 
 
-
-### Hakkında Penceresi
-
-[Imgur](https://i.imgur.com/eJCjzuU.png)
-[Imgur](https://i.imgur.com/ThAUnIl.jpg)
----
 
 ## Yazar Bilgileri
 
