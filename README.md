@@ -10,7 +10,13 @@ Bu Python uygulaması, belirli bir dizindeki dosyaları uzantılarına göre oto
 
 ![image](https://github.com/user-attachments/assets/96b983da-e26c-43f9-8b2d-8e1333d0feac)
 
+
 ![image](https://github.com/user-attachments/assets/6d835191-4c1d-418b-8ca4-c23e80026788)
+
+
+
+![image](https://github.com/user-attachments/assets/d05831f8-f43d-4ee1-9b2b-d43ee1c95d33)
+
 
 ## Özellikler
 
